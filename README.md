@@ -1,0 +1,2 @@
+# FooBarQix
+kata FooBarQix
